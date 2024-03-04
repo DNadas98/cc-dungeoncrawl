@@ -109,6 +109,7 @@ java -jar dungeon-crawl-1.0-SNAPSHOT.jar
 
 ## Images
 
+<img src="https://raw.githubusercontent.com/DNadas98/cc-dungeoncrawl/main/images/Screenshot1.png" alt="Game screenshot">
 [View project images](https://github.com/DNadas98/cc-dungeoncrawl/blob/development/images)
 
 ## Contact
